@@ -6,7 +6,7 @@ RockSalt is a robust, multi-threaded GUI application designed for security profe
 
 It features a custom **"Red Cypher"** dark theme and integrates directly with system tools like Nmap, Netcat, and SSH.
 
-![RockSalt GUI]([rocksalt.png](https://github.com/Rali0s/R0ck-S4lt/blob/main/rocksalt.png))
+![RockSalt GUI](https://github.com/Rali0s/R0ck-S4lt/blob/main/rocksalt.png)
 
 Coded By: 'Rek0n'
 
