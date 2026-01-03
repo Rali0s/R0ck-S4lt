@@ -1,0 +1,4 @@
+PySocks
+i2plib
+python-nmap
+pwncat-cs
