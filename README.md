@@ -8,7 +8,7 @@ It features a custom **"Red Cypher"** dark theme and integrates directly with sy
 
 ![RockSalt GUI](https://github.com/Rali0s/R0ck-S4lt/blob/main/rocksalt_v4.png)
 
-Coded By: 'Rek0n'
+Coded By: 'Rali0s'
 
 ---
 
